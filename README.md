@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
   Github Favorites é uma aplicação desenvolvida no explorer 10 da Rocketseat, trabalhamos com classes no JavaScript, a aplicação busca os dados do usuário do Github utilizando a API publica do Github e retorna com o nome do usuário, quantidade de repositórios e quantidade de seguidores, salvando assim as informações no localStorage.
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://erlanmarinho.github.io/github-favorites/)
 
 ## Instalação
 Você precisará do [Node.js](https://nodejs.org) instalado no seu computador para criar este aplicativo.
